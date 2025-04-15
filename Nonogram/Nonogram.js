@@ -17,6 +17,7 @@ function setGame()
             if(i == 0 || j == 0)
             {
                 //row filled count
+                tile.classList.add("fillCounter")
             }
             else
             {
